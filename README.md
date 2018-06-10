@@ -13,4 +13,10 @@ Initially the user will need to allow the application to access the user's locat
 
 In this window the user will be provided a chart display of the temperature for the upcoming 3 days. User have to provide a city for which they need the chart display.
 
+![chart](https://user-images.githubusercontent.com/40135714/41204501-da97baba-6d02-11e8-9094-573bc0c04ddb.png)
+
+# Weather Forecast
+
+A five day weather forecast will be provided for the city entered by the user.
+
 
