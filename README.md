@@ -19,4 +19,6 @@ In this window the user will be provided a chart display of the temperature for 
 
 A five day weather forecast will be provided for the city entered by the user.
 
+![forecast](https://user-images.githubusercontent.com/40135714/41204533-4c5bd3de-6d03-11e8-88af-78e4271719eb.png)
+
 
