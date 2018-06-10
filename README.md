@@ -7,6 +7,10 @@ This application provides you most of the features that a user expects from a ge
 This window allows the user to enter a city name and on the basis of the city provided the program will provide the basic weather details.
 Initially the user will need to allow the application to access the user's location to display the details of his/her location.
 
+![weathermain](https://user-images.githubusercontent.com/40135714/41204453-37ca6d00-6d02-11e8-9d4a-edd16bb1bce2.png)
 
+# Chart Display
+
+In this window the user will be provided a chart display of the temperature for the upcoming 3 days. User have to provide a city for which they need the chart display.
 
 
